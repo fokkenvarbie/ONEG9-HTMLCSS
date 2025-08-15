@@ -1,5 +1,5 @@
 <h1>Portfólio de Joana Santos</h1>
-Este projeto é um portfólio simples, construído com o objetivo de apresentar Joana Santos, uma desenvolvedora Front-end.<br>
+Este projeto é um portfólio simples, construído com o objetivo de apresentar Joana Santos, uma desenvolvedora Front-end com especialidade em React, HTML e CSS.<br>
 O site é dividido em duas páginas para uma navegação clara e intuitiva. As páginas destacam suas experiências, habilidades e links para redes.<br>
 <br>
 
